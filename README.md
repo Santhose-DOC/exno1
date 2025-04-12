@@ -22,6 +22,9 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
+REG No: 212224230248
+NAME: Santhose Arockiaraj J
+
 ### Reading the CSV file
 
 ```
